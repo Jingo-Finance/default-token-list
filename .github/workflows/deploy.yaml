@@ -36,8 +36,8 @@ jobs:
         id: upload
         uses: anantaramdas/ipfs-pinata-deploy-action@a551f37c17ec3961df7c3ad52e1cd266dfd3d7e7
         with:
-          pin-name: Uniswap Default Token List
-          path: "build/uniswap-default.tokenlist.json"
+          pin-name: Pegasys Default Token List
+          path: "build/pegasys-default.tokenlist.json"
           pinata-api-key: ${{ secrets.PINATA_API_KEY }}
           pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET_KEY }}
 
