@@ -1,6 +1,6 @@
 const { version } = require("../package.json");
 const rollux = require("./tokens/rollux.json");
-const rollux_tanenbaum = require("./tokens/rollux_tanenbaum.json");
+const rollux_tanenbaum = require("./tokens/rollux-tanenbaum.json");
 
 
 const bridgeUtils = require('@uniswap/token-list-bridge-utils');
@@ -18,7 +18,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xd3e822f3ef011Ca5f17D82C956D952D8d7C3A1BB/logo.png",
     keywords: ["pegasys", "default"],
-    tokens: [...rollux, rollux_tanenbaum]
+    tokens: [...rollux, ...rollux_tanenbaum]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {

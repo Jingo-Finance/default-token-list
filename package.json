@@ -1,6 +1,6 @@
 {
   "name": "@pollum-io/default-token-list",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The Pegasys default token list",
   "main": "build/pegasys-default.tokenlist.json",
   "publishConfig": {
