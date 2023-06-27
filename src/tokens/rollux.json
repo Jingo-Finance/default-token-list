@@ -1,35 +1,35 @@
 [
   {
-    "address": "0x7189ae0d1F60bbb8f26bE96dF1fB97aD5e881FDD",
+    "address": "0x2A4DC2e946b92AB4a1f7D62844EB237788F9056c",
     "chainId": 570,
-    "name": "Wrapped Bitcoin",
+    "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x2A4DC2e946b92AB4a1f7D62844EB237788F9056c/logo.png"
   },
   {
-    "address": "0xdBB59E294A93487822d1d7e164609Cd59d396fb5",
+    "address": "0x368433CaC2A0B8D76E64681a9835502a1f2A8A30",
     "chainId": 570,
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x368433CaC2A0B8D76E64681a9835502a1f2A8A30/logo.png"
   },
   {
-    "address": "0x4DFc340487bbec780bA8458e614b732d7226AE8f",
+    "address": "0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c",
     "chainId": 570,
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0x922D641a426DcFFaeF11680e5358F34d97d112E1/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c/logo.png"
   },
   {
-    "address": "0x5de737495Fe261cc9d6D32E00196d5e4ef43594D",
+    "address": "0x5B0aC6194499621630ddebb30c4aBE37037b30Ec",
     "chainId": 570,
     "name": "DAI",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x5B0aC6194499621630ddebb30c4aBE37037b30Ec/logo.png"
   },
   {
     "address": "0x4200000000000000000000000000000000000006",
@@ -37,14 +37,22 @@
     "name": "Wrapped Syscoin",
     "symbol": "WSYS",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xd3e822f3ef011Ca5f17D82C956D952D8d7C3A1BB/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x4200000000000000000000000000000000000006/logo.png"
   },
   {
-    "address": "0x8e59ED2DF847Ad3d19624480Db5B2B3Ba27fC9a8",
+    "address": "0x48023b16c3e81AA7F6eFFbdEB35Bb83f4f31a8fd",
     "chainId": 570,
     "name": "Pegasys",
     "symbol": "PSYS",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xE18c200A70908c89fFA18C628fE1B83aC0065EA4/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x48023b16c3e81AA7F6eFFbdEB35Bb83f4f31a8fd/logo.png"
+  },
+  {
+    "address": "0xaA1c53AFd099E415208F47FCFA2C880f659E6904",
+    "chainId": 570,
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0xaA1c53AFd099E415208F47FCFA2C880f659E6904/logo.png"
   }
 ]

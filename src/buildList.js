@@ -16,7 +16,7 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://raw.githubusercontent.com/pollum-io/pegasys-tokenlists/master/logos/0xd3e822f3ef011Ca5f17D82C956D952D8d7C3A1BB/logo.png",
+    logoURI: "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/default.png",
     keywords: ["pegasys", "default"],
     tokens: [...rollux, ...rollux_tanenbaum]
       // sort them by symbol for easy readability
