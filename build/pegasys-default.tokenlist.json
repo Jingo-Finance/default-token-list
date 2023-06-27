@@ -1,0 +1,129 @@
+{
+  "name": "Pegasys Default",
+  "timestamp": "2023-06-27T19:25:49.171Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 4
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/default.png",
+  "keywords": [
+    "pegasys",
+    "default"
+  ],
+  "tokens": [
+    {
+      "address": "0x5B0aC6194499621630ddebb30c4aBE37037b30Ec",
+      "chainId": 570,
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x5B0aC6194499621630ddebb30c4aBE37037b30Ec/logo.png"
+    },
+    {
+      "address": "0x48023b16c3e81AA7F6eFFbdEB35Bb83f4f31a8fd",
+      "chainId": 570,
+      "name": "Pegasys",
+      "symbol": "PSYS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x48023b16c3e81AA7F6eFFbdEB35Bb83f4f31a8fd/logo.png"
+    },
+    {
+      "address": "0x368433CaC2A0B8D76E64681a9835502a1f2A8A30",
+      "chainId": 570,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x368433CaC2A0B8D76E64681a9835502a1f2A8A30/logo.png"
+    },
+    {
+      "address": "0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c",
+      "chainId": 570,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c/logo.png"
+    },
+    {
+      "address": "0x2A4DC2e946b92AB4a1f7D62844EB237788F9056c",
+      "chainId": 570,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x2A4DC2e946b92AB4a1f7D62844EB237788F9056c/logo.png"
+    },
+    {
+      "address": "0xaA1c53AFd099E415208F47FCFA2C880f659E6904",
+      "chainId": 570,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0xaA1c53AFd099E415208F47FCFA2C880f659E6904/logo.png"
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 570,
+      "name": "Wrapped Syscoin",
+      "symbol": "WSYS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x4200000000000000000000000000000000000006/logo.png"
+    },
+    {
+      "address": "0xccA991E1Bdca2846640d366116d60BC25C2815db",
+      "chainId": 57000,
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0xccA991E1Bdca2846640d366116d60BC25C2815db/logo.png"
+    },
+    {
+      "address": "0x817C777DEf2Fd6ffE2492C6CD124985C78Ee9235",
+      "chainId": 57000,
+      "name": "Pegasys",
+      "symbol": "PSYS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0x817C777DEf2Fd6ffE2492C6CD124985C78Ee9235/logo.png"
+    },
+    {
+      "address": "0x2Be160796F509CC4B1d76fc97494D56CF109C3f1",
+      "chainId": 57000,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0x2Be160796F509CC4B1d76fc97494D56CF109C3f1/logo.png"
+    },
+    {
+      "address": "0xb97915AED8B5996dE24Ce760EC8DE5A91E820dF7",
+      "chainId": 57000,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0xb97915AED8B5996dE24Ce760EC8DE5A91E820dF7/logo.png"
+    },
+    {
+      "address": "0xcDa164cb93979d714CC8B0D3e1ab829E81469649",
+      "chainId": 57000,
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0xcDa164cb93979d714CC8B0D3e1ab829E81469649/logo.png"
+    },
+    {
+      "address": "0x96e1988e3753584357A20857602eE6b072A3D5Bf",
+      "chainId": 57000,
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0x96e1988e3753584357A20857602eE6b072A3D5Bf/logo.png"
+    },
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 57000,
+      "name": "Wrapped Syscoin",
+      "symbol": "WSYS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0x4200000000000000000000000000000000000006/logo.png"
+    }
+  ]
+}
