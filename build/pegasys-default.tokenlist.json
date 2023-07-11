@@ -1,6 +1,6 @@
 {
   "name": "Pegasys Default",
-  "timestamp": "2023-06-28T20:43:06.216Z",
+  "timestamp": "2023-07-11T15:22:55.716Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -13,6 +13,14 @@
     "default"
   ],
   "tokens": [
+    {
+      "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
+      "chainId": 570,
+      "name": "Alinticoin",
+      "symbol": "ALIT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2/logo.png"
+    },
     {
       "address": "0x5B0aC6194499621630ddebb30c4aBE37037b30Ec",
       "chainId": 570,
