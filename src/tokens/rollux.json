@@ -62,5 +62,13 @@
     "symbol": "ALIT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2/logo.png"
+  },
+  {
+    "address": "0xb38c8d4101607B971d35CCB706446B3F3EDc141D",
+    "chainId": 570,
+    "name": "BabyTuru",
+    "symbol": "BBT",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0xb38c8d4101607B971d35CCB706446B3F3EDc141D/logo.png"
   }
 ]

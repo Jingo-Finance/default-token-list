@@ -1,10 +1,10 @@
 {
   "name": "Pegasys Default",
-  "timestamp": "2023-07-11T15:22:55.716Z",
+  "timestamp": "2023-08-10T14:36:13.490Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/default.png",
@@ -20,6 +20,14 @@
       "symbol": "ALIT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2/logo.png"
+    },
+    {
+      "address": "0xb38c8d4101607B971d35CCB706446B3F3EDc141D",
+      "chainId": 570,
+      "name": "BabyTuru",
+      "symbol": "BBT",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0xb38c8d4101607B971d35CCB706446B3F3EDc141D/logo.png"
     },
     {
       "address": "0x5B0aC6194499621630ddebb30c4aBE37037b30Ec",
