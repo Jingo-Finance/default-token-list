@@ -71,4 +71,12 @@
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0xb38c8d4101607B971d35CCB706446B3F3EDc141D/logo.png"
   }
+  {
+    "address": "0x6aaee51366f8435e1ad527f5ecdc276bf1dc0b86",
+    "chainId": 570,
+    "name": "LUXY",
+    "symbol": "LUXY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x6aaee51366f8435e1ad527f5ecdc276bf1dc0b86/logo.png"
+  },
 ]
