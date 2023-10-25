@@ -38,12 +38,12 @@
       "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x5B0aC6194499621630ddebb30c4aBE37037b30Ec/logo.png"
     },
     {
-      "address": "0x6aaee51366f8435e1ad527f5ecdc276bf1dc0b86",
+      "address": "0x6AaEE51366F8435e1Ad527F5Ecdc276bF1dc0b86",
       "chainId": 570,
       "name": "LUXY",
       "symbol": "LUXY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x6aaee51366f8435e1ad527f5ecdc276bf1dc0b86/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x6AaEE51366F8435e1Ad527F5Ecdc276bF1dc0b86/logo.png"
     },
     {
       "address": "0x48023b16c3e81AA7F6eFFbdEB35Bb83f4f31a8fd",
