@@ -78,5 +78,13 @@
     "symbol": "LUXY",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x6AaEE51366F8435e1Ad527F5Ecdc276bF1dc0b86/logo.png"
+  },
+  {
+    "address": "0x8180fd40aa2c7f9c70ff461ac99c448580139270",
+    "chainId": 570,
+    "name": "SKIBIDI TOILET",
+    "symbol": "SKBD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x8180fd40aa2c7f9c70ff461ac99c448580139270/logo.png"
   }
 ]

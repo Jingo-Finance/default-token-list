@@ -1,6 +1,6 @@
 {
   "name": "Pegasys Default",
-  "timestamp": "2023-10-18T13:32:12.717Z",
+  "timestamp": "2024-07-04T14:54:38.110Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -52,6 +52,14 @@
       "symbol": "PSYS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x48023b16c3e81AA7F6eFFbdEB35Bb83f4f31a8fd/logo.png"
+    },
+    {
+      "address": "0x8180fd40aa2c7f9c70ff461ac99c448580139270",
+      "chainId": 570,
+      "name": "SKIBIDI TOILET",
+      "symbol": "SKBD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x8180fd40aa2c7f9c70ff461ac99c448580139270/logo.png"
     },
     {
       "address": "0x368433CaC2A0B8D76E64681a9835502a1f2A8A30",
