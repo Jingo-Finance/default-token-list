@@ -1,6 +1,6 @@
 {
   "name": "@pollum-io/default-token-list",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "The Pegasys default token list",
   "main": "build/pegasys-default.tokenlist.json",
   "publishConfig": {
@@ -32,7 +32,7 @@
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.29",
-    "@uniswap/token-list-bridge-utils": "^1.3.2",
+    "@uniswap/token-list-bridge-utils": "^2.3.0",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
