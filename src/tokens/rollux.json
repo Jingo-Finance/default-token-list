@@ -86,5 +86,13 @@
     "symbol": "SKBD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x8180fd40Aa2C7f9c70ff461Ac99C448580139270/logo.png"
+  },
+  {
+    "address": "0x570baA32dB74279a50491E88D712C957F4C9E409",
+    "chainId": 570,
+    "name": "UnoRe",
+    "symbol": "UNO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x570baA32dB74279a50491E88D712C957F4C9E409/logo.png"
   }
 ]
