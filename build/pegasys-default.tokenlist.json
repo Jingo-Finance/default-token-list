@@ -1,10 +1,10 @@
 {
   "name": "Pegasys Default",
-  "timestamp": "2024-08-20T12:36:04.779Z",
+  "timestamp": "2024-10-04T17:21:38.815Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 8
+    "patch": 9
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/default.png",
@@ -13,22 +13,6 @@
     "default"
   ],
   "tokens": [
-    {
-      "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
-      "chainId": 570,
-      "name": "Alinticoin",
-      "symbol": "ALIT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2/logo.png"
-    },
-    {
-      "address": "0xb38c8d4101607B971d35CCB706446B3F3EDc141D",
-      "chainId": 570,
-      "name": "BabyTuru",
-      "symbol": "BBT",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0xb38c8d4101607B971d35CCB706446B3F3EDc141D/logo.png"
-    },
     {
       "address": "0x5B0aC6194499621630ddebb30c4aBE37037b30Ec",
       "chainId": 570,
@@ -60,6 +44,14 @@
       "symbol": "SKBD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x8180fd40Aa2C7f9c70ff461Ac99C448580139270/logo.png"
+    },
+    {
+      "address": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
+      "chainId": 570,
+      "name": "SuperDapp",
+      "symbol": "SUPR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/33093/standard/ZLbQFe1j_400x400.png"
     },
     {
       "address": "0x570baA32dB74279a50491E88D712C957F4C9E409",
