@@ -1,10 +1,10 @@
 {
   "name": "Pegasys Default",
-  "timestamp": "2024-10-04T17:21:38.815Z",
+  "timestamp": "2024-10-14T12:15:24.226Z",
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 9
+    "patch": 10
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/default.png",
@@ -51,7 +51,7 @@
       "name": "SuperDapp",
       "symbol": "SUPR",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33093/standard/ZLbQFe1j_400x400.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x3390108E913824B8eaD638444cc52B9aBdF63798/logo.png"
     },
     {
       "address": "0x570baA32dB74279a50491E88D712C957F4C9E409",
