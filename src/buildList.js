@@ -1,9 +1,9 @@
 const { version } = require("../package.json");
 const rollux = require("./tokens/rollux.json");
 const rollux_tanenbaum = require("./tokens/rollux-tanenbaum.json");
+const zksys_tanenbaum = require("./tokens/zksys-tanenbaum.json");
 
-
-const bridgeUtils = require('@uniswap/token-list-bridge-utils');
+const bridgeUtils = require("@uniswap/token-list-bridge-utils");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -16,9 +16,10 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/default.png",
+    logoURI:
+      "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/default.png",
     keywords: ["pegasys", "default"],
-    tokens: [...rollux, ...rollux_tanenbaum]
+    tokens: [...rollux, ...rollux_tanenbaum, ...zksys_tanenbaum]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
