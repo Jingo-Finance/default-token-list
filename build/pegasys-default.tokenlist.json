@@ -14,12 +14,12 @@
   ],
   "tokens": [
     {
-      "address": "0x5B0aC6194499621630ddebb30c4aBE37037b30Ec",
+      "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
       "chainId": 9745,
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0x5B0aC6194499621630ddebb30c4aBE37037b30Ec/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb/logo.png"
     },
     {
       "address": "0x6AaEE51366F8435e1Ad527F5Ecdc276bF1dc0b86",
@@ -78,12 +78,12 @@
       "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c/logo.png"
     },
     {
-      "address": "0x2A4DC2e946b92AB4a1f7D62844EB237788F9056c",
+      "address": "0x6100E367285b01F48D07953803A2d8dCA5D19873",
       "chainId": 9745,
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0x2A4DC2e946b92AB4a1f7D62844EB237788F9056c/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0x6100E367285b01F48D07953803A2d8dCA5D19873/logo.png"
     },
     {
       "address": "0xaA1c53AFd099E415208F47FCFA2C880f659E6904",
