@@ -15,187 +15,187 @@
   "tokens": [
     {
       "address": "0x5B0aC6194499621630ddebb30c4aBE37037b30Ec",
-      "chainId": 570,
+      "chainId": 9745,
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x5B0aC6194499621630ddebb30c4aBE37037b30Ec/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0x5B0aC6194499621630ddebb30c4aBE37037b30Ec/logo.png"
     },
     {
       "address": "0x6AaEE51366F8435e1Ad527F5Ecdc276bF1dc0b86",
-      "chainId": 570,
+      "chainId": 9745,
       "name": "LUXY",
       "symbol": "LUXY",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x6AaEE51366F8435e1Ad527F5Ecdc276bF1dc0b86/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0x6AaEE51366F8435e1Ad527F5Ecdc276bF1dc0b86/logo.png"
     },
     {
       "address": "0x48023b16c3e81AA7F6eFFbdEB35Bb83f4f31a8fd",
-      "chainId": 570,
+      "chainId": 9745,
       "name": "Pegasys",
       "symbol": "PSYS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x48023b16c3e81AA7F6eFFbdEB35Bb83f4f31a8fd/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0x48023b16c3e81AA7F6eFFbdEB35Bb83f4f31a8fd/logo.png"
     },
     {
       "address": "0x8180fd40Aa2C7f9c70ff461Ac99C448580139270",
-      "chainId": 570,
+      "chainId": 9745,
       "name": "SKIBIDI TOILET",
       "symbol": "SKBD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x8180fd40Aa2C7f9c70ff461Ac99C448580139270/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0x8180fd40Aa2C7f9c70ff461Ac99C448580139270/logo.png"
     },
     {
       "address": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
-      "chainId": 570,
+      "chainId": 9745,
       "name": "SuperDapp",
       "symbol": "SUPR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x3390108E913824B8eaD638444cc52B9aBdF63798/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0x3390108E913824B8eaD638444cc52B9aBdF63798/logo.png"
     },
     {
-      "address": "0x570baA32dB74279a50491E88D712C957F4C9E409",
-      "chainId": 570,
+      "address": "0x9745baA32dB74279a50491E88D712C957F4C9E409",
+      "chainId": 9745,
       "name": "UnoRe",
       "symbol": "UNO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x570baA32dB74279a50491E88D712C957F4C9E409/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0x9745baA32dB74279a50491E88D712C957F4C9E409/logo.png"
     },
     {
       "address": "0x368433CaC2A0B8D76E64681a9835502a1f2A8A30",
-      "chainId": 570,
+      "chainId": 9745,
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x368433CaC2A0B8D76E64681a9835502a1f2A8A30/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0x368433CaC2A0B8D76E64681a9835502a1f2A8A30/logo.png"
     },
     {
       "address": "0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c",
-      "chainId": 570,
+      "chainId": 9745,
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0x28c9c7Fb3fE3104d2116Af26cC8eF7905547349c/logo.png"
     },
     {
       "address": "0x2A4DC2e946b92AB4a1f7D62844EB237788F9056c",
-      "chainId": 570,
+      "chainId": 9745,
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x2A4DC2e946b92AB4a1f7D62844EB237788F9056c/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0x2A4DC2e946b92AB4a1f7D62844EB237788F9056c/logo.png"
     },
     {
       "address": "0xaA1c53AFd099E415208F47FCFA2C880f659E6904",
-      "chainId": 570,
+      "chainId": 9745,
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0xaA1c53AFd099E415208F47FCFA2C880f659E6904/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0xaA1c53AFd099E415208F47FCFA2C880f659E6904/logo.png"
     },
     {
       "address": "0x4200000000000000000000000000000000000006",
-      "chainId": 570,
+      "chainId": 9745,
       "name": "Wrapped Syscoin",
       "symbol": "WSYS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/570/0x4200000000000000000000000000000000000006/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0x4200000000000000000000000000000000000006/logo.png"
     },
     {
       "address": "0xe5fAcECcF0AC8c860fF09B7E627cAaFbF427Fe20",
-      "chainId": 5701,
+      "chainId": 97451,
       "name": "Pegasys",
       "symbol": "PSYS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/5701/0xe5fAcECcF0AC8c860fF09B7E627cAaFbF427Fe20/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/97451/0xe5fAcECcF0AC8c860fF09B7E627cAaFbF427Fe20/logo.png"
     },
     {
       "address": "0xDf2D98DCcF84180ceB337475fcadD0003ea14E2E",
-      "chainId": 5701,
+      "chainId": 97451,
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/5701/0xDf2D98DCcF84180ceB337475fcadD0003ea14E2E/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/97451/0xDf2D98DCcF84180ceB337475fcadD0003ea14E2E/logo.png"
     },
     {
       "address": "0xfC25fa595Ef72210d429B3f5913834Df40C98cC5",
-      "chainId": 5701,
+      "chainId": 97451,
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/5701/0xfC25fa595Ef72210d429B3f5913834Df40C98cC5/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/97451/0xfC25fa595Ef72210d429B3f5913834Df40C98cC5/logo.png"
     },
     {
       "address": "0x22E34A7511a82729961A0812108C592361237008",
-      "chainId": 5701,
+      "chainId": 97451,
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/5701/0x22E34A7511a82729961A0812108C592361237008/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/97451/0x22E34A7511a82729961A0812108C592361237008/logo.png"
     },
     {
       "address": "0x8BBb86D74e11C388913000f598A8C0F6B9e35055",
-      "chainId": 5701,
+      "chainId": 97451,
       "name": "Wrapped Syscoin",
       "symbol": "WSYS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/5701/0x8BBb86D74e11C388913000f598A8C0F6B9e35055/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/97451/0x8BBb86D74e11C388913000f598A8C0F6B9e35055/logo.png"
     },
     {
       "address": "0xccA991E1Bdca2846640d366116d60BC25C2815db",
-      "chainId": 57000,
+      "chainId": 974500,
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0xccA991E1Bdca2846640d366116d60BC25C2815db/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/974500/0xccA991E1Bdca2846640d366116d60BC25C2815db/logo.png"
     },
     {
       "address": "0x817C777DEf2Fd6ffE2492C6CD124985C78Ee9235",
-      "chainId": 57000,
+      "chainId": 974500,
       "name": "Pegasys",
       "symbol": "PSYS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0x817C777DEf2Fd6ffE2492C6CD124985C78Ee9235/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/974500/0x817C777DEf2Fd6ffE2492C6CD124985C78Ee9235/logo.png"
     },
     {
       "address": "0x2Be160796F509CC4B1d76fc97494D56CF109C3f1",
-      "chainId": 57000,
+      "chainId": 974500,
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0x2Be160796F509CC4B1d76fc97494D56CF109C3f1/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/974500/0x2Be160796F509CC4B1d76fc97494D56CF109C3f1/logo.png"
     },
     {
       "address": "0xb97915AED8B5996dE24Ce760EC8DE5A91E820dF7",
-      "chainId": 57000,
+      "chainId": 974500,
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0xb97915AED8B5996dE24Ce760EC8DE5A91E820dF7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/974500/0xb97915AED8B5996dE24Ce760EC8DE5A91E820dF7/logo.png"
     },
     {
       "address": "0xcDa164cb93979d714CC8B0D3e1ab829E81469649",
-      "chainId": 57000,
+      "chainId": 974500,
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0xcDa164cb93979d714CC8B0D3e1ab829E81469649/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/974500/0xcDa164cb93979d714CC8B0D3e1ab829E81469649/logo.png"
     },
     {
       "address": "0x96e1988e3753584357A20857602eE6b072A3D5Bf",
-      "chainId": 57000,
+      "chainId": 974500,
       "name": "Wrapped Ethereum",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0x96e1988e3753584357A20857602eE6b072A3D5Bf/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/974500/0x96e1988e3753584357A20857602eE6b072A3D5Bf/logo.png"
     },
     {
       "address": "0x4200000000000000000000000000000000000006",
-      "chainId": 57000,
+      "chainId": 974500,
       "name": "Wrapped Syscoin",
       "symbol": "WSYS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/57000/0x4200000000000000000000000000000000000006/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/974500/0x4200000000000000000000000000000000000006/logo.png"
     }
   ]
 }
