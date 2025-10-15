@@ -1,9 +1,8 @@
 # default-token-list
 
 [![Tests](https://github.com/pegasys-fi/token-lists/workflows/Tests/badge.svg)](https://github.com/pegasys-fi/default-token-list/actions?query=workflow%3ATests)
-[![npm](https://img.shields.io/npm/v/@pollum-io/default-token-list)](https://unpkg.com/@pollum-io/default-token-list@latest/)
 
-This NPM module and GitHub repo contains the default token list used in the Pegasys interface.
+This NPM module and GitHub repo contains the default token list used in the Jingo interface.
 
 ## Adding a token
 
