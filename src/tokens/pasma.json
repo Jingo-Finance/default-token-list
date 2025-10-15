@@ -5,7 +5,7 @@
     "name": "Wrapped XPL",
     "symbol": "WXPL",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0x6100E367285b01F48D07953803A2d8dCA5D19873/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Jingo-Finance/default-token-list/refs/heads/main/src/logos/9745/0x6100E367285b01F48D07953803A2d8dCA5D19873/logo.png"
   },
   {
     "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
@@ -13,6 +13,6 @@
     "name": "USDT0 Coin",
     "symbol": "USDT0",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/pegasys-fi/default-token-list/master/src/logos/9745/0x368433CaC2A0B8D76E64681a9835502a1f2A8A30/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Jingo-Finance/default-token-list/refs/heads/main/src/logos/9745/0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb/logo.png"
   },
 ]
